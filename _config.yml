@@ -4,7 +4,7 @@
 
 # Site
 title: Extra
-subtitle: 'Extra‘s blog'
+subtitle: 'Extra`s blog'
 description: '技术胖有3年开发经验'
 keywords: '前端开发'
 author: John Doe
@@ -61,7 +61,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: 'hexo_blog'
   per_page: 10
   order_by: -date
 

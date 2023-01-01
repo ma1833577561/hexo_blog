@@ -1,4 +1,4 @@
 ---
-title: {{ title }}
+title: {{ Home }}
 date: {{ date }}
 ---
